@@ -90,22 +90,22 @@ The dataset was sourced from a publicly available Netflix dataset and cleaned us
 
 ### 🔸 Insights Visualizations
 **Directors with Most Content on Netflix**  
-![Directors](DIRECTORS WITH MOST CONTENT ON NETFLIX.png)  
+![Directors](DIRECTORS_WITH_MOST_CONTENT_ON_NETFLIX.png)
 
 **Maturity Ratings**  
-![Maturity Ratings](MATURITY RATINGS.png)  
+![Maturity Ratings](MATURITY_RATINGS.png)
 
 **Movies and TV Shows Distribution**  
-![Movies and TV Shows Distribution](MOVIES AND TV SHOWS DISTRIBUTION.png)  
+![Movies and TV Shows Distribution](MOVIES_AND_TV_SHOWS_DISTRIBUTION.png)
 
 **Top 10 Genres**  
-![Top 10 Genres](TOP 10 GENRES.png)  
+![Top 10 Genres](TOP_10_GENRES.png)
 
 **Total Movies and TV Shows by Country**  
-![By Country](TOTAL MOVIES AND TV SHOWS BY COUNTRY.png)  
+![By Country](TOTAL_MOVIES_AND_TV_SHOWS_BY_COUNTRY.png)
 
 **Total Movies and TV Shows by Year**  
-![By Year](TOTAL MOVIES AND TV SHOWS BY YEAR.png)  
+![By Year](TOTAL_MOVIES_AND_TV_SHOWS_BY_YEAR.png)
 
 
 ---
@@ -114,7 +114,7 @@ The dataset was sourced from a publicly available Netflix dataset and cleaned us
 
 **Aditya BG**  
 3rd Year CSE Student — Dayananda Sagar College of Engineering  
-Email: _[Your Email]_  
-LinkedIn: _[Your LinkedIn link]_
+Email: adityabg11@gmail.com 
+
 
 ---
